@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Special Website<mwl>
+    <title>AYANFEOLUWA'S WEBSITE<mwl>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,7 +53,7 @@
             <li>A mobile-friendly layout</li>
         </ul>
         <p>
-            Feel free to browse around and explore. If you have any questions or would like to get in touch, please visit the <a href="contact.html">Contact Page</a>.
+            Feel free to browse around and explore. If you have any questions or would like to get in touch, please visit the <+2348051699223>Contact Page</a>.
         </p>
     </div>
 </body>
